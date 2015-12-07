@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+   <string name="app_name">com_enterlib</string>
+    <string name="error">Error</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="salvando">Guardando &#8230;</string>
+    <string name="loading">Cargando &#8230;</string>
+    <string name="nofificaciones">Nofificaciones</string>
+    <string name="no_se_pudo_salvar">No se pudo guardar</string>
+    <string name="conexion_fallida">Se ha perdido la conexión. Intente conectarse de nuevo mas tarde</string>
+    <string name="no_hay_datos">No se encuentran datos disponibles</string>
+    <string name="verifique_los_campos_se_alados">Verifique los campos señalados</string>
+    <string name="ascending">Ascendente</string>
+    <string name="descending">Descendente</string>
+    <string name="refresh">Actualizar</string>
+    <string name="search">Buscar</string>
+    <string name="sort">Ordenar</string>
+    <string name="empty_list_message">Lista vacia</string>
+    <string name="required">Requerido</string>
+    <string name="validation_fail_message">Hay datos no válidos</string>
+
+</resources>

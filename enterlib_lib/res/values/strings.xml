@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">com_enterlib</string>
+    <string name="error">Error</string>
+    <string name="cerrar">Close</string>
+    <string name="salvando">Saving &#8230;</string>
+    <string name="loading">loading &#8230;</string>
+    <string name="nofificaciones">Notifications</string>
+    <string name="no_se_pudo_salvar">Could not save</string>
+    <string name="conexion_fallida">Connection failure. Try to conect later</string>
+    <string name="no_hay_datos">There are not any data available</string>
+    <string name="verifique_los_campos_se_alados">Check out the shown fields</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="refresh">Update</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="empty_list_message">list empty</string>
+    <string name="required">Required</string>
+    <string name="validation_fail_message">There are invalid data</string>
+
+</resources>

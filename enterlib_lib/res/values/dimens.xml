@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <!-- Default width for a textview error popup -->
+    <dimen name="textview_error_popup_default_width">240dip</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+</resources>
